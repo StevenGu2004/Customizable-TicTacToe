@@ -1,8 +1,8 @@
 """ 
 Customizable TicTacToe
 
-This script can be used to generate a game of TicTacToe played via command line user inputs, 
-where the player can flexibly declare the size of the board and the amount of equivalent marks needed
+This script can be used to generate a game of TicTacToe played via command-line user inputs, 
+where the player can flexibly declare the size of the board and the amount of Xs or Os needed
 in a row, column or diagonal in succession for a player to win.
 
 Example
