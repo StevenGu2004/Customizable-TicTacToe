@@ -8,8 +8,6 @@ Note
     All test cases are commented out to avoid the user's command lind being hogged when first running code.
 """
 
-# TODO try the test cases and come up with more
-
 from tictactoe import Tictactoe
 
 
