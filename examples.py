@@ -5,7 +5,7 @@ This script is used for testing the different features of the TicTacToe script.
 
 Note
 ----
-    All test cases are commented out so the user doesn't run several test cases all at once accidentally.
+    All test cases are commented out to avoid the user's command lind being hogged when first running code.
 """
 
 # TODO try the test cases and come up with more
@@ -19,7 +19,7 @@ def main() -> None:
     # ttt = Tictactoe()
     # ttt.game()
 
-    # ttt2 = Tictactoe(width_of_board=4, in_a_row_to_win=2)
+    # ttt2 = Tictactoe(width_of_board=5, in_a_row_to_win=4)
     # ttt2.game()
 
     # ttt3 = Tictactoe(width_of_board=2, in_a_row_to_win=3)
