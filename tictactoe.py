@@ -8,7 +8,6 @@ in a row, column or diagonal in succession for a player to win.
 Example
 -------
     see: examples.py
-
 """
 
 
