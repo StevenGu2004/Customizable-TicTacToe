@@ -11,7 +11,7 @@ This project allows the user to customize the size of the playing board and the 
 ### 5x5 board size needing 4 marks in a row
 ![5x5_victory](https://github.com/StevenGu2004/Customizable-TicTacToe/assets/93726536/229e96aa-1de1-4f8b-a28d-26a3761e4cda)
 
-## Notes
+## Note
 - Although only 1 game can be played at once, the user can initialize multiple games and play them in succession
 
 ## WIP
